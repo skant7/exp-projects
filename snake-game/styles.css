@@ -1,0 +1,4 @@
+#gamecanvas{
+    background-image: url(./assets/bg.jpg);
+    border: 20px solid green;
+}
